@@ -55,7 +55,7 @@ coverage.xml
 docs/_build/
 
 # user directory
-./dictionary-data/
-./wikipedia-text/
+dictionary-data/
+wikipedia-text/wikipedia_text.json
 .idea/
 
